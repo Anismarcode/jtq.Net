@@ -1,0 +1,458 @@
+2023-05-09 16:20:30.758 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:20:31.212 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:20:31.214 +02:00 [INF] RabbitMq messaging backup feature is going to be used via LiteDb
+2023-05-09 16:22:22.389 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:22:22.848 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:22:22.851 +02:00 [INF] RabbitMq messaging backup feature is going to be used via LiteDb
+2023-05-09 16:23:05.370 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:23:05.859 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:23:05.860 +02:00 [INF] RabbitMq messaging backup feature is going to be used via LiteDb
+2023-05-09 16:23:34.731 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:23:35.052 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 16:23:35.053 +02:00 [INF] RabbitMq messaging backup feature is going to be used via LiteDb
+2023-05-09 17:21:21.767 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 17:21:22.202 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 17:21:22.204 +02:00 [INF] RabbitMq messaging backup feature is going to be used via LiteDb
+2023-05-09 17:40:52.286 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 17:40:52.607 +02:00 [INF] Please setup your database in order to have the RabbitMq messaging backup feature
+2023-05-09 17:40:52.608 +02:00 [INF] RabbitMq messaging backup feature is going to be used via LiteDb
+2023-05-09 17:40:54.877 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-05-09 17:40:54.900 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-05-09 17:40:54.933 +02:00 [DBG] Initializing Razor view compiler with no compiled views.
+2023-05-09 17:40:54.934 +02:00 [DBG] Initializing Razor view compiler with no compiled views.
+2023-05-09 17:40:54.957 +02:00 [INF] User profile is available. Using 'C:\Users\gmanuelg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-05-09 17:40:54.960 +02:00 [INF] User profile is available. Using 'C:\Users\gmanuelg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-05-09 17:40:55.080 +02:00 [DBG] Hosting starting
+2023-05-09 17:40:55.085 +02:00 [DBG] Hosting starting
+2023-05-09 17:40:55.095 +02:00 [DBG] Reading data from file 'C:\Users\gmanuelg\AppData\Local\ASP.NET\DataProtection-Keys\key-710c1282-85ad-4bd5-9d91-45fe32d9fcef.xml'.
+2023-05-09 17:40:55.097 +02:00 [DBG] Reading data from file 'C:\Users\gmanuelg\AppData\Local\ASP.NET\DataProtection-Keys\key-710c1282-85ad-4bd5-9d91-45fe32d9fcef.xml'.
+2023-05-09 17:40:55.118 +02:00 [DBG] Found key {710c1282-85ad-4bd5-9d91-45fe32d9fcef}.
+2023-05-09 17:40:55.121 +02:00 [DBG] Found key {710c1282-85ad-4bd5-9d91-45fe32d9fcef}.
+2023-05-09 17:40:55.146 +02:00 [DBG] Considering key {710c1282-85ad-4bd5-9d91-45fe32d9fcef} with expiration date 2023-07-25 13:20:24Z as default key.
+2023-05-09 17:40:55.150 +02:00 [DBG] Considering key {710c1282-85ad-4bd5-9d91-45fe32d9fcef} with expiration date 2023-07-25 13:20:24Z as default key.
+2023-05-09 17:40:55.154 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-05-09 17:40:55.167 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-05-09 17:40:55.171 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2023-05-09 17:40:55.173 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2023-05-09 17:40:55.176 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-05-09 17:40:55.179 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-05-09 17:40:55.187 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2023-05-09 17:40:55.213 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2023-05-09 17:40:55.248 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2023-05-09 17:40:55.250 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2023-05-09 17:40:55.256 +02:00 [DBG] Using key {710c1282-85ad-4bd5-9d91-45fe32d9fcef} as the default key.
+2023-05-09 17:40:55.258 +02:00 [DBG] Using key {710c1282-85ad-4bd5-9d91-45fe32d9fcef} as the default key.
+2023-05-09 17:40:55.259 +02:00 [DBG] Key ring with default key {710c1282-85ad-4bd5-9d91-45fe32d9fcef} was loaded during application startup.
+2023-05-09 17:40:55.260 +02:00 [DBG] Key ring with default key {710c1282-85ad-4bd5-9d91-45fe32d9fcef} was loaded during application startup.
+2023-05-09 17:40:55.317 +02:00 [WRN] Overriding address(es) 'http://localhost:8085'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2023-05-09 17:40:55.322 +02:00 [WRN] Overriding address(es) 'http://localhost:8085'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2023-05-09 17:40:55.332 +02:00 [INF] Now listening on: http://0.0.0.0:8085
+2023-05-09 17:40:55.333 +02:00 [INF] Now listening on: http://0.0.0.0:8085
+2023-05-09 17:40:55.335 +02:00 [DBG] Loaded hosting startup assembly Devon4Net.Application.WebAPI
+2023-05-09 17:40:55.336 +02:00 [DBG] Loaded hosting startup assembly Devon4Net.Application.WebAPI
+2023-05-09 17:40:55.337 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 17:40:55.338 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 17:40:55.339 +02:00 [INF] Hosting environment: Development
+2023-05-09 17:40:55.340 +02:00 [INF] Hosting environment: Development
+2023-05-09 17:40:55.341 +02:00 [INF] Content root path: c:\Prueba\Templates\WebAPI\Devon4Net.Application.WebAPI\
+2023-05-09 17:40:55.342 +02:00 [INF] Content root path: c:\Prueba\Templates\WebAPI\Devon4Net.Application.WebAPI\
+2023-05-09 17:40:55.343 +02:00 [DBG] Hosting started
+2023-05-09 17:40:55.354 +02:00 [DBG] Hosting started
+2023-05-09 17:41:56.405 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" accepted.
+2023-05-09 17:41:56.407 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" accepted.
+2023-05-09 17:41:56.409 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" accepted.
+2023-05-09 17:41:56.409 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" started.
+2023-05-09 17:41:56.411 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" accepted.
+2023-05-09 17:41:56.412 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" started.
+2023-05-09 17:41:56.415 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" started.
+2023-05-09 17:41:56.418 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" started.
+2023-05-09 17:41:56.517 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/ - -
+2023-05-09 17:41:56.522 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/ - -
+2023-05-09 17:41:56.524 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-05-09 17:41:56.525 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-05-09 17:41:56.591 +02:00 [DBG] No candidates found for the request path '/'
+2023-05-09 17:41:56.595 +02:00 [DBG] No candidates found for the request path '/'
+2023-05-09 17:41:56.600 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:41:56.602 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:41:56.654 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" accepted.
+2023-05-09 17:41:56.656 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" accepted.
+2023-05-09 17:41:56.659 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" started.
+2023-05-09 17:41:56.661 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" started.
+2023-05-09 17:41:56.666 +02:00 [DBG] The request path  does not match the path filter
+2023-05-09 17:41:56.667 +02:00 [DBG] The request path  does not match the path filter
+2023-05-09 17:41:56.679 +02:00 [DBG] The request path / does not match a supported file type
+2023-05-09 17:41:56.683 +02:00 [DBG] The request path / does not match a supported file type
+2023-05-09 17:41:56.689 +02:00 [WRN] Failed to determine the https port for redirect.
+2023-05-09 17:41:56.691 +02:00 [WRN] Failed to determine the https port for redirect.
+2023-05-09 17:41:56.703 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" completed keep alive response.
+2023-05-09 17:41:56.705 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" completed keep alive response.
+2023-05-09 17:41:56.711 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/ - - - 404 0 - 200.7015ms
+2023-05-09 17:41:56.714 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/ - - - 404 0 - 200.7015ms
+2023-05-09 17:42:01.015 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/index.html - -
+2023-05-09 17:42:01.017 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/index.html - -
+2023-05-09 17:42:01.021 +02:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-05-09 17:42:01.023 +02:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-05-09 17:42:01.024 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.025 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.132 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" completed keep alive response.
+2023-05-09 17:42:01.141 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" completed keep alive response.
+2023-05-09 17:42:01.144 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/index.html - - - 200 - text/html;charset=utf-8 128.1307ms
+2023-05-09 17:42:01.146 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/index.html - - - 200 - text/html;charset=utf-8 128.1307ms
+2023-05-09 17:42:01.214 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui.css - -
+2023-05-09 17:42:01.215 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui.css - -
+2023-05-09 17:42:01.216 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-standalone-preset.js - -
+2023-05-09 17:42:01.217 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-bundle.js - -
+2023-05-09 17:42:01.221 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-standalone-preset.js - -
+2023-05-09 17:42:01.222 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui.css'
+2023-05-09 17:42:01.223 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-bundle.js - -
+2023-05-09 17:42:01.225 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+2023-05-09 17:42:01.227 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui.css'
+2023-05-09 17:42:01.228 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+2023-05-09 17:42:01.230 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+2023-05-09 17:42:01.231 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.241 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.234 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.233 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+2023-05-09 17:42:01.280 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.313 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-05-09 17:42:01.316 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.323 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-05-09 17:42:01.327 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.339 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" completed keep alive response.
+2023-05-09 17:42:01.412 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-05-09 17:42:01.461 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" completed keep alive response.
+2023-05-09 17:42:01.465 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-05-09 17:42:01.467 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui.css - - - 200 143943 text/css 253.1385ms
+2023-05-09 17:42:01.469 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" completed keep alive response.
+2023-05-09 17:42:01.472 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui.css - - - 200 143943 text/css 253.1385ms
+2023-05-09 17:42:01.474 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" completed keep alive response.
+2023-05-09 17:42:01.477 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-standalone-preset.js - - - 200 339486 application/javascript 260.4646ms
+2023-05-09 17:42:01.478 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-standalone-preset.js - - - 200 339486 application/javascript 260.4646ms
+2023-05-09 17:42:01.482 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-05-09 17:42:01.516 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-05-09 17:42:01.520 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:01.522 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:01.524 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-bundle.js - - - 200 1096145 application/javascript 307.2176ms
+2023-05-09 17:42:01.526 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/swagger-ui-bundle.js - - - 200 1096145 application/javascript 307.2176ms
+2023-05-09 17:42:01.865 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/v1/swagger.json - -
+2023-05-09 17:42:01.867 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/v1/swagger.json - -
+2023-05-09 17:42:01.869 +02:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2023-05-09 17:42:01.871 +02:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2023-05-09 17:42:01.873 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.874 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.913 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/favicon-32x32.png - -
+2023-05-09 17:42:01.915 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/swagger/favicon-32x32.png - -
+2023-05-09 17:42:01.917 +02:00 [DBG] No candidates found for the request path '/swagger/favicon-32x32.png'
+2023-05-09 17:42:01.918 +02:00 [DBG] No candidates found for the request path '/swagger/favicon-32x32.png'
+2023-05-09 17:42:01.919 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.920 +02:00 [DBG] Request did not match any endpoints
+2023-05-09 17:42:01.922 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-05-09 17:42:01.924 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-05-09 17:42:01.931 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" completed keep alive response.
+2023-05-09 17:42:01.963 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" completed keep alive response.
+2023-05-09 17:42:01.965 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/favicon-32x32.png - - - 200 628 image/png 51.5701ms
+2023-05-09 17:42:01.968 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/favicon-32x32.png - - - 200 628 image/png 51.5701ms
+2023-05-09 17:42:02.127 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:02.138 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:02.143 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 277.3680ms
+2023-05-09 17:42:02.144 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 277.3680ms
+2023-05-09 17:42:14.355 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:8085/User application/json 61
+2023-05-09 17:42:14.358 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:8085/User application/json 61
+2023-05-09 17:42:14.374 +02:00 [DBG] 1 candidate(s) found for the request path '/User'
+2023-05-09 17:42:14.397 +02:00 [DBG] 1 candidate(s) found for the request path '/User'
+2023-05-09 17:42:14.407 +02:00 [DBG] Endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)' with route pattern 'User' is valid for the request path '/User'
+2023-05-09 17:42:14.409 +02:00 [DBG] Endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)' with route pattern 'User' is valid for the request path '/User'
+2023-05-09 17:42:14.412 +02:00 [DBG] Request matched endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:14.413 +02:00 [DBG] Request matched endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:14.414 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:14.415 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:14.417 +02:00 [DBG] The request has an origin header: 'http://localhost:8085'.
+2023-05-09 17:42:14.419 +02:00 [DBG] The request has an origin header: 'http://localhost:8085'.
+2023-05-09 17:42:14.421 +02:00 [INF] CORS policy execution failed.
+2023-05-09 17:42:14.423 +02:00 [INF] CORS policy execution failed.
+2023-05-09 17:42:14.423 +02:00 [INF] Request origin http://localhost:8085 does not have permission to access the resource.
+2023-05-09 17:42:14.425 +02:00 [INF] Request origin http://localhost:8085 does not have permission to access the resource.
+2023-05-09 17:42:14.426 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:14.427 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:14.429 +02:00 [INF] Executing endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:14.430 +02:00 [INF] Executing endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:14.488 +02:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto) on controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI).
+2023-05-09 17:42:14.497 +02:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto) on controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI).
+2023-05-09 17:42:14.510 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-05-09 17:42:14.515 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-05-09 17:42:14.522 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-05-09 17:42:14.524 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-05-09 17:42:14.526 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:14.528 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:14.531 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-05-09 17:42:14.532 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-05-09 17:42:14.542 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter","Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:14.550 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter","Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:14.561 +02:00 [DBG] Executing controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:14.564 +02:00 [DBG] Executing controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:14.860 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-05-09 17:42:14.863 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-05-09 17:42:14.930 +02:00 [DBG] Executed controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:14.937 +02:00 [DBG] Executed controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:14.946 +02:00 [DBG] Attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto' ...
+2023-05-09 17:42:14.955 +02:00 [DBG] Attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto' ...
+2023-05-09 17:42:14.961 +02:00 [DBG] Attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto' using the name '' in request data ...
+2023-05-09 17:42:14.965 +02:00 [DBG] Attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto' using the name '' in request data ...
+2023-05-09 17:42:14.987 +02:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2023-05-09 17:42:14.994 +02:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2023-05-09 17:42:15.000 +02:00 [DBG] Connection id "0HMQGKFLNV8IU", Request id "0HMQGKFLNV8IU:00000004": started reading request body.
+2023-05-09 17:42:15.005 +02:00 [DBG] Connection id "0HMQGKFLNV8IU", Request id "0HMQGKFLNV8IU:00000004": started reading request body.
+2023-05-09 17:42:15.008 +02:00 [DBG] Connection id "0HMQGKFLNV8IU", Request id "0HMQGKFLNV8IU:00000004": done reading request body.
+2023-05-09 17:42:15.010 +02:00 [DBG] Connection id "0HMQGKFLNV8IU", Request id "0HMQGKFLNV8IU:00000004": done reading request body.
+2023-05-09 17:42:15.031 +02:00 [DBG] JSON input formatter succeeded, deserializing to type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'
+2023-05-09 17:42:15.062 +02:00 [DBG] JSON input formatter succeeded, deserializing to type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'
+2023-05-09 17:42:15.065 +02:00 [DBG] Done attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'.
+2023-05-09 17:42:15.070 +02:00 [DBG] Done attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'.
+2023-05-09 17:42:15.072 +02:00 [DBG] Done attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'.
+2023-05-09 17:42:15.074 +02:00 [DBG] Done attempting to bind parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'.
+2023-05-09 17:42:15.076 +02:00 [DBG] Attempting to validate the bound parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto' ...
+2023-05-09 17:42:15.077 +02:00 [DBG] Attempting to validate the bound parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto' ...
+2023-05-09 17:42:15.157 +02:00 [DBG] Done attempting to validate the bound parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'.
+2023-05-09 17:42:15.159 +02:00 [DBG] Done attempting to validate the bound parameter 'userDto' of type 'Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto'.
+2023-05-09 17:42:15.166 +02:00 [DBG] Executing Create from controller UserController
+2023-05-09 17:42:15.171 +02:00 [DBG] SetUser method from service Userservice with value : string, string
+2023-05-09 17:42:15.174 +02:00 [DBG] SetUser method from repository Userervice with value : string
+2023-05-09 17:42:15.953 +02:00 [INF] Entity Framework Core 6.0.11 initialized 'MyContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.11' with options: None
+2023-05-09 17:42:15.957 +02:00 [INF] Entity Framework Core 6.0.11 initialized 'MyContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.11' with options: None
+2023-05-09 17:42:16.022 +02:00 [DBG] 'MyContext' generated a temporary value for the property 'Id.User'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:16.025 +02:00 [DBG] 'MyContext' generated a temporary value for the property 'Id.User'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:16.124 +02:00 [DBG] Context 'MyContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:16.129 +02:00 [DBG] Context 'MyContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:16.141 +02:00 [DBG] SaveChanges starting for 'MyContext'.
+2023-05-09 17:42:16.144 +02:00 [DBG] SaveChanges starting for 'MyContext'.
+2023-05-09 17:42:16.157 +02:00 [DBG] DetectChanges starting for 'MyContext'.
+2023-05-09 17:42:16.159 +02:00 [DBG] DetectChanges starting for 'MyContext'.
+2023-05-09 17:42:16.176 +02:00 [DBG] DetectChanges completed for 'MyContext'.
+2023-05-09 17:42:16.179 +02:00 [DBG] DetectChanges completed for 'MyContext'.
+2023-05-09 17:42:16.299 +02:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:16.307 +02:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:22.770 +02:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:22.772 +02:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:22.778 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2023-05-09 17:42:22.784 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2023-05-09 17:42:22.835 +02:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2023-05-09 17:42:22.842 +02:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2023-05-09 17:42:22.970 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-05-09 17:42:22.981 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-05-09 17:42:23.004 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (25ms).
+2023-05-09 17:42:23.007 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (25ms).
+2023-05-09 17:42:23.053 +02:00 [DBG] Executing DbCommand [Parameters=[@p0='?' (Size = 45) (DbType = AnsiString), @p1='?' (Size = 45) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [jtq].[users] ([password], [username])
+VALUES (@p0, @p1);
+SELECT [id]
+FROM [jtq].[users]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity();
+2023-05-09 17:42:23.056 +02:00 [DBG] Executing DbCommand [Parameters=[@p0='?' (Size = 45) (DbType = AnsiString), @p1='?' (Size = 45) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [jtq].[users] ([password], [username])
+VALUES (@p0, @p1);
+SELECT [id]
+FROM [jtq].[users]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity();
+2023-05-09 17:42:23.275 +02:00 [INF] Executed DbCommand (231ms) [Parameters=[@p0='?' (Size = 45) (DbType = AnsiString), @p1='?' (Size = 45) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [jtq].[users] ([password], [username])
+VALUES (@p0, @p1);
+SELECT [id]
+FROM [jtq].[users]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity();
+2023-05-09 17:42:23.280 +02:00 [INF] Executed DbCommand (231ms) [Parameters=[@p0='?' (Size = 45) (DbType = AnsiString), @p1='?' (Size = 45) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [jtq].[users] ([password], [username])
+VALUES (@p0, @p1);
+SELECT [id]
+FROM [jtq].[users]
+WHERE @@ROWCOUNT = 1 AND [id] = scope_identity();
+2023-05-09 17:42:23.341 +02:00 [DBG] The foreign key property 'User.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2023-05-09 17:42:23.347 +02:00 [DBG] The foreign key property 'User.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2023-05-09 17:42:23.379 +02:00 [DBG] A data reader was disposed.
+2023-05-09 17:42:23.381 +02:00 [DBG] A data reader was disposed.
+2023-05-09 17:42:23.408 +02:00 [DBG] Committing transaction.
+2023-05-09 17:42:23.409 +02:00 [DBG] Committing transaction.
+2023-05-09 17:42:23.437 +02:00 [DBG] Committed transaction.
+2023-05-09 17:42:23.441 +02:00 [DBG] Committed transaction.
+2023-05-09 17:42:23.449 +02:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:23.451 +02:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:23.465 +02:00 [DBG] Closed connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:23.477 +02:00 [DBG] Closed connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:23.482 +02:00 [DBG] Disposing transaction.
+2023-05-09 17:42:23.484 +02:00 [DBG] Disposing transaction.
+2023-05-09 17:42:23.521 +02:00 [DBG] An entity of type 'User' tracked by 'MyContext' changed state from '"Added"' to '"Unchanged"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:23.523 +02:00 [DBG] An entity of type 'User' tracked by 'MyContext' changed state from '"Added"' to '"Unchanged"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:23.535 +02:00 [DBG] SaveChanges completed for 'MyContext' with 1 entities written to the database.
+2023-05-09 17:42:23.541 +02:00 [DBG] SaveChanges completed for 'MyContext' with 1 entities written to the database.
+2023-05-09 17:42:23.550 +02:00 [DBG] An entity of type 'User' tracked by 'MyContext' changed state from '"Unchanged"' to '"Detached"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:23.554 +02:00 [DBG] An entity of type 'User' tracked by 'MyContext' changed state from '"Unchanged"' to '"Detached"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-05-09 17:42:23.565 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-05-09 17:42:23.570 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-05-09 17:42:23.580 +02:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-05-09 17:42:23.584 +02:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-05-09 17:42:23.588 +02:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-05-09 17:42:23.590 +02:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-05-09 17:42:23.592 +02:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-05-09 17:42:23.593 +02:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-05-09 17:42:23.594 +02:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-05-09 17:42:23.599 +02:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-05-09 17:42:23.602 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-05-09 17:42:23.605 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-05-09 17:42:23.608 +02:00 [INF] Executing ObjectResult, writing value of type 'Devon4Net.Application.WebAPI.Domain.Entities.User'.
+2023-05-09 17:42:23.612 +02:00 [INF] Executing ObjectResult, writing value of type 'Devon4Net.Application.WebAPI.Domain.Entities.User'.
+2023-05-09 17:42:23.633 +02:00 [INF] Executed action Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI) in 9057.444ms
+2023-05-09 17:42:23.635 +02:00 [INF] Executed action Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI) in 9057.444ms
+2023-05-09 17:42:23.636 +02:00 [INF] Executed endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:23.637 +02:00 [INF] Executed endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.Create (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:23.640 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:23.649 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:23.689 +02:00 [DBG] 'MyContext' disposed.
+2023-05-09 17:42:23.690 +02:00 [DBG] 'MyContext' disposed.
+2023-05-09 17:42:23.694 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:8085/User application/json 61 - 201 - application/json;+charset=utf-8 9326.2692ms
+2023-05-09 17:42:23.697 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:8085/User application/json 61 - 201 - application/json;+charset=utf-8 9326.2692ms
+2023-05-09 17:42:37.031 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/User - -
+2023-05-09 17:42:37.033 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8085/User - -
+2023-05-09 17:42:37.035 +02:00 [DBG] 1 candidate(s) found for the request path '/User'
+2023-05-09 17:42:37.043 +02:00 [DBG] 1 candidate(s) found for the request path '/User'
+2023-05-09 17:42:37.066 +02:00 [DBG] Endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)' with route pattern 'User' is valid for the request path '/User'
+2023-05-09 17:42:37.070 +02:00 [DBG] Endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)' with route pattern 'User' is valid for the request path '/User'
+2023-05-09 17:42:37.086 +02:00 [DBG] Request matched endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:37.089 +02:00 [DBG] Request matched endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:37.090 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:37.091 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:37.093 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:37.095 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-05-09 17:42:37.096 +02:00 [INF] Executing endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:37.098 +02:00 [INF] Executing endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:37.103 +02:00 [INF] Route matched with {action = "GetUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetUser() on controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI).
+2023-05-09 17:42:37.105 +02:00 [INF] Route matched with {action = "GetUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetUser() on controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI).
+2023-05-09 17:42:37.124 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-05-09 17:42:37.150 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-05-09 17:42:37.153 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-05-09 17:42:37.155 +02:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-05-09 17:42:37.157 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:37.184 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:37.199 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-05-09 17:42:37.202 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-05-09 17:42:37.204 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter","Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:37.206 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter","Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Devon4Net.Infrastructure.Common.Application.Attributes.ModelStateCheckerAttribute (Order: 0)"]
+2023-05-09 17:42:37.209 +02:00 [DBG] Executing controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:37.210 +02:00 [DBG] Executing controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:37.221 +02:00 [DBG] Executed controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:37.240 +02:00 [DBG] Executed controller factory for controller Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController (Devon4Net.Application.WebAPI)
+2023-05-09 17:42:37.253 +02:00 [DBG] Executing GetUser from controller UserController
+2023-05-09 17:42:37.255 +02:00 [DBG] GetUser method from service Userservice
+2023-05-09 17:42:37.258 +02:00 [DBG] GetUser method from UserRepository Userervice
+2023-05-09 17:42:37.367 +02:00 [INF] Entity Framework Core 6.0.11 initialized 'MyContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.11' with options: None
+2023-05-09 17:42:37.374 +02:00 [INF] Entity Framework Core 6.0.11 initialized 'MyContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.11' with options: None
+2023-05-09 17:42:37.457 +02:00 [DBG] Compiling query expression: 
+'DbSet<User>()
+    .AsNoTracking()'
+2023-05-09 17:42:37.469 +02:00 [DBG] Compiling query expression: 
+'DbSet<User>()
+    .AsNoTracking()'
+2023-05-09 17:42:37.720 +02:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<User>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: User.Password (string) Required MaxLength(45) Ansi, 1], [Property: User.Username (string) Required Index MaxLength(45) Ansi, 2] }
+        SELECT u.id, u.password, u.username
+        FROM jtq.users AS u), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, User>, 
+    Devon4Net.Application.WebAPI.Domain.Database.MyContext, 
+    False, 
+    False, 
+    True
+)'
+2023-05-09 17:42:37.724 +02:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<User>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: User.Password (string) Required MaxLength(45) Ansi, 1], [Property: User.Username (string) Required Index MaxLength(45) Ansi, 2] }
+        SELECT u.id, u.password, u.username
+        FROM jtq.users AS u), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, User>, 
+    Devon4Net.Application.WebAPI.Domain.Database.MyContext, 
+    False, 
+    False, 
+    True
+)'
+2023-05-09 17:42:37.802 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-05-09 17:42:37.804 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-05-09 17:42:37.809 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (7ms).
+2023-05-09 17:42:37.825 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (7ms).
+2023-05-09 17:42:37.827 +02:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.829 +02:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.832 +02:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.843 +02:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.849 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[id], [u].[password], [u].[username]
+FROM [jtq].[users] AS [u]
+2023-05-09 17:42:37.853 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[id], [u].[password], [u].[username]
+FROM [jtq].[users] AS [u]
+2023-05-09 17:42:37.868 +02:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[id], [u].[password], [u].[username]
+FROM [jtq].[users] AS [u]
+2023-05-09 17:42:37.884 +02:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[id], [u].[password], [u].[username]
+FROM [jtq].[users] AS [u]
+2023-05-09 17:42:37.952 +02:00 [DBG] A data reader was disposed.
+2023-05-09 17:42:37.953 +02:00 [DBG] A data reader was disposed.
+2023-05-09 17:42:37.954 +02:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.955 +02:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.957 +02:00 [DBG] Closed connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.958 +02:00 [DBG] Closed connection to database 'master' on server 'localhost'.
+2023-05-09 17:42:37.970 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-05-09 17:42:37.984 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-05-09 17:42:37.987 +02:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-05-09 17:42:37.989 +02:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-05-09 17:42:37.991 +02:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-05-09 17:42:38.001 +02:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-05-09 17:42:38.015 +02:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-05-09 17:42:38.016 +02:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-05-09 17:42:38.018 +02:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-05-09 17:42:38.019 +02:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-05-09 17:42:38.020 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-05-09 17:42:38.021 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-05-09 17:42:38.023 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[Devon4Net.Application.WebAPI.Domain.Entities.User, Devon4Net.Application.WebAPI, Version=6.0.11.0, Culture=neutral, PublicKeyToken=null],[Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto, Devon4Net.Application.WebAPI, Version=6.0.11.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-05-09 17:42:38.025 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[Devon4Net.Application.WebAPI.Domain.Entities.User, Devon4Net.Application.WebAPI, Version=6.0.11.0, Culture=neutral, PublicKeyToken=null],[Devon4Net.Application.WebAPI.Business.UserManagement.Dto.UserDto, Devon4Net.Application.WebAPI, Version=6.0.11.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-05-09 17:42:38.031 +02:00 [INF] Executed action Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI) in 821.6826ms
+2023-05-09 17:42:38.059 +02:00 [INF] Executed action Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI) in 821.6826ms
+2023-05-09 17:42:38.062 +02:00 [INF] Executed endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:38.064 +02:00 [INF] Executed endpoint 'Devon4Net.Application.WebAPI.Business.UsersManagement.Controllers.UserController.GetUser (Devon4Net.Application.WebAPI)'
+2023-05-09 17:42:38.066 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:38.068 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" completed keep alive response.
+2023-05-09 17:42:38.070 +02:00 [DBG] 'MyContext' disposed.
+2023-05-09 17:42:38.072 +02:00 [DBG] 'MyContext' disposed.
+2023-05-09 17:42:38.074 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/User - - - 200 - application/json;+charset=utf-8 1041.1700ms
+2023-05-09 17:42:38.075 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8085/User - - - 200 - application/json;+charset=utf-8 1041.1700ms
+2023-05-09 17:44:02.231 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" disconnecting.
+2023-05-09 17:44:02.231 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" disconnecting.
+2023-05-09 17:44:02.234 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" disconnecting.
+2023-05-09 17:44:02.235 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" disconnecting.
+2023-05-09 17:44:02.238 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" stopped.
+2023-05-09 17:44:02.238 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" stopped.
+2023-05-09 17:44:02.239 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" stopped.
+2023-05-09 17:44:02.240 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" stopped.
+2023-05-09 17:44:02.241 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-05-09 17:44:02.242 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-05-09 17:44:02.243 +02:00 [DBG] Connection id "0HMQGKFLNV8IT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-05-09 17:44:02.244 +02:00 [DBG] Connection id "0HMQGKFLNV8IV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-05-09 17:44:38.577 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" disconnecting.
+2023-05-09 17:44:38.587 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" disconnecting.
+2023-05-09 17:44:38.595 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" stopped.
+2023-05-09 17:44:38.610 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" stopped.
+2023-05-09 17:44:38.614 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-05-09 17:44:38.616 +02:00 [DBG] Connection id "0HMQGKFLNV8IU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-05-09 18:08:55.978 +02:00 [INF] Application is shutting down...
+2023-05-09 18:08:55.979 +02:00 [DBG] Hosting stopping
+2023-05-09 18:08:55.979 +02:00 [INF] Application is shutting down...
+2023-05-09 18:08:55.981 +02:00 [DBG] Hosting stopping
+2023-05-09 18:08:55.987 +02:00 [DBG] Hosting stopped
+2023-05-09 18:08:55.989 +02:00 [DBG] Hosting stopped
